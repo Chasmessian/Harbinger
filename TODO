@@ -1,0 +1,33 @@
+Check for position and (scale?): make parts of shape class relative to center point
+
+add rotation functionality
+noted: built-in rotation is around the origin, which makes sense but is annoying
+
+change parent canvas to parent scene so that a scene can be loaded into different canvases
+
+add camera???
+
+test shape class such as moving nodes
+
+better node system and overall system for adding and creating objects
+
+test ability to change scene
+
+add spline functionality
+
+add Components, including preRender() and postRender()
+
+components start with basic filters such as dropshadow, maybe glow, plus color filters, perhaps motionBlur
+
+create masks and masking features
+
+image support including: PNG, JPEG, and SVG
+
+look into shaders for scenes
+
+design timeline and keyframe system
+
+create more Easing patterns
+
+consider an editor that allows you to drag and drop components to make animations without too much code
+
